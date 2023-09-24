@@ -14,7 +14,8 @@
     "format": "prettier . --write"
   },
   "devDependencies": {
-    "@adiwajshing/baileys": "npm:baileys",
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
+    "@whiskeysockets/baileys": "^6.4.1",
     "@prisma/client": "^4.7.1",
     "@types/node": "^18.11.10",
     "@typescript-eslint/eslint-plugin": "^5.45.0",
